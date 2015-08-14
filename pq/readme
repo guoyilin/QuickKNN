@@ -1,0 +1,4 @@
+1. data/ contains features file, image ids file and centroids. 
+2. sofia-ml/ generate the centroids using k-means. see sofia-ml/gen_cluster.sh 
+3. compile cpp for python : sudo bjam
+4. python test.py

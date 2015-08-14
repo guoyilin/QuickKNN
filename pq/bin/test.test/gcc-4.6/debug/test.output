@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "test.py", line 1, in <module>
+    import pq
+ImportError: dynamic module does not define init function (initpq)
+
+EXIT STATUS: 1
